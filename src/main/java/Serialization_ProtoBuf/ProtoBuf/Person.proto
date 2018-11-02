@@ -1,9 +1,0 @@
-option java_package = "Serialization_ProtoBuf.ProtoBuf"; 
-option java_outer_classname = "PersonProbuf"; 
-
-message Person {
-    optional int64 id=1;
-    optional string name=2;
-    optional string sex=3;
-    optional string tel=4;
-}
