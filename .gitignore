@@ -1,5 +1,7 @@
-**/target/**
+xxx**/target/**
 .idea/**
 *.iml
 .svn/**
 **/log/**
+.java
+!/src/main/java/Chat/*
